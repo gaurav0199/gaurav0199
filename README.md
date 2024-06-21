@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **python, ML, DL & NLP**
 
-- 📫 Contact me on [gmail](gauravkrsingh70@gmail.com)
+- 📫 Contact me on (gauravkrsingh70@gmail.com)
 
 - 💻 Check my Projects and other Repos [HERE.](https://github.com/gaurav0199)
 
